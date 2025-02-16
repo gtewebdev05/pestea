@@ -103,3 +103,13 @@ a {
     font-size: 30px;
     margin-right: 15px;
 }
+.footer-h6 h6{
+    display:inline;
+    margin-right:10px;
+}
+.footer-h6 h6:hover{
+    background:red;
+    border-radius:8px;
+    padding:5px;
+}
+    
